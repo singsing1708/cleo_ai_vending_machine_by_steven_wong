@@ -32,6 +32,13 @@ class Wallet
     end
   end
 
+  def total_value_for_coin_types(coin_types)
+    @coins_bag.reduce(0) do |result, (coin_type, coin_quantity)|
+      coin_quantity = 0 unless coin_types.include?(coin_type)
+      result += COIN_TYPE_VALUE_MAP[coin_type] * coin_quantity
+    end
+  end
+
   def cash_out_coins(amount)
     result = {}
     remaining_amount = amount
