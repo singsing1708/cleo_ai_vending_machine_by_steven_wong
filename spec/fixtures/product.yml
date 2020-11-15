@@ -1,0 +1,16 @@
+- :code: "1"
+  :name: "Coke"
+  :quantity: 5
+  :price: 80
+- :code: "2"
+  :name: "Pepsi"
+  :quantity: 10
+  :price: 85
+- :code: "3"
+  :name: "Water"
+  :quantity: 15
+  :price: 76
+- :code: "4"
+  :name: "Orange Juice"
+  :quantity: 20
+  :price: 76

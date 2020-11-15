@@ -1,0 +1,16 @@
+- :coin_type: "1p"
+  :quantity: 0
+- :coin_type: "2p"
+  :quantity: 0
+- :coin_type: "5p"
+  :quantity: 0
+- :coin_type: "10p"
+  :quantity: 1
+- :coin_type: "20p"
+  :quantity: 1
+- :coin_type: "50p"
+  :quantity: 1
+- :coin_type: "1£"
+  :quantity: 0
+- :coin_type: "2£"
+  :quantity: 0

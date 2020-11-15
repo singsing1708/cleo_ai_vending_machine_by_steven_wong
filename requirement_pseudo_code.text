@@ -1,0 +1,42 @@
+1. main.ru
+
+2. Loop
+List all products
+Show coin inside
+a) input coins
+b) return coins
+c) admin section
+d) exit
+
+
+Show Buyable
+Show coin balance
+a) get input + validation
+1p, 2p, 5p, 10p, 20p, 50p, £1, £2
+
+a.1) return coins
+a.2) pick buyable product
+
+
+a.2) deduct products
+return coins
+
+
+a.1,b) return coins
+
+
+c)
+show coins remained
+show product remained
+c.1) refill coins
+c.2) refill products
+
+
+c.1)
+select coins and add number
+
+c.2)
+c.2.1) select products and add number
+c.2.2) add new product and add number
+c.2.3) update product
+c.2.4) delete product
